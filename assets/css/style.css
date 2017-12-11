@@ -56,20 +56,19 @@ section#intro {
   grid-gap: 15px;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr))  
 }
-@media screen and (min-width:1080px) {
+/* @media screen and (min-width:1080px) { */
   section#intro {
     grid-template-columns: 400px 1fr;}
 }
-section#data-collection {
+/* section#data-collection { */
   display: grid;
   grid-gap: 15px;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr))  
 }
-@media screen and (min-width:1080px) {
+/* @media screen and (min-width:1080px) { */
   section#data-collection {
     grid-template-columns: 400px 1fr;}
 }
 
 
   
-}
