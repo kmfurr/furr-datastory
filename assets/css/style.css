@@ -47,8 +47,11 @@ div.blocks div {
     grid-row: 1;
 }
 
-.intro2
-{grid-row: 2;}
+.img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
 
 section#intro {
   display: grid;
