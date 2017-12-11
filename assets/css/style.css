@@ -52,7 +52,9 @@ div.blocks div {
     margin: auto;
     width: 40%;
 }
-
+figcaption {
+  text-align: center;
+}
 section#intro {
   display: grid;
   grid-gap: 15px;
