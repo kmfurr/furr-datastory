@@ -48,8 +48,10 @@ div.blocks div {
 }
 .intro2 {
     grid-column: 3 / 4;
-    grid-row: 1;
+    grid-row: 2;
 }
+.img { align: center}
+
 
 section#intro {
   display: grid;
