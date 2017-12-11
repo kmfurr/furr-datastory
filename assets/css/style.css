@@ -56,12 +56,14 @@ figcaption {
   text-align: center;
 }
 
-ul
+/* li */
 {color: #000671 
 font-family: Raleway
 line-height: 20px
 font-size: 18px
  }
+a
+{color: #000671  }
 
 section#intro {
   display: grid;
